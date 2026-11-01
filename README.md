@@ -120,10 +120,3 @@ jupyter notebook "Exploratory Data Analysis.ipynb"
 - [ ] Integrate with ERP system for automated data refresh
 
 ---
-
-## 👤 Author
-
-**Jay Kumbhar**
-📧 jaykumbhar518@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/jaykumbhar5121)
-💻 [GitHub](https://github.com/jay51211)
